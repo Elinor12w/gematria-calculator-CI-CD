@@ -36,3 +36,6 @@ def main(text: str) -> int:
             total_score += gematria_values[char]
 
     return total_score
+
+
+# testing branch protection rule
